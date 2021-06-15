@@ -2,6 +2,7 @@
 splashscreen of Memories App
 
  *Clone, or download the file 
+  
  *Click on index.html 
 
 
