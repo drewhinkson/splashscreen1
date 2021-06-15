@@ -1,7 +1,8 @@
 # splashscreen1
 splashscreen of Memories App
-*Clone, or download the file 
-*Click on index.html 
+
+ *Clone, or download the file 
+ *Click on index.html 
 
 
 <img src="https://github.com/kakoon8/splashscreen1/blob/main/memories1.PNG"/>
